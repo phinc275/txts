@@ -1,0 +1,100 @@
+{
+   "voxie_id": "0",
+   "name": "Voxie #0",
+   "description": "Voxies are cute, lovable and collectible voxel buddies, that live and play on the Ethereum blockchain. There are only 10,000 Voxies in existence and no two Voxies are identical. Lots of random properties and fun traits make each Voxie cute, unique and sometimes rare!",
+   "external_url": "https://voxies.io",
+   "image": "https://voxies-data-final.s3.us-east-2.amazonaws.com/0.gif",
+   "animation_url": "https://voxies-data-final.s3.us-east-2.amazonaws.com/0.mp4",
+   "traits": [
+      {
+         "trait_type": "Rarity",
+         "value": "Legendary"
+      },
+      {
+         "trait_type": "Race",
+         "value": "Human"
+      },
+      {
+         "trait_type": "Skin Tone",
+         "value": "Average"
+      },
+      {
+         "trait_type": "Emotion",
+         "value": "Happy"
+      },
+      {
+         "trait_type": "Hair Style",
+         "value": "Quiff"
+      },
+      {
+         "trait_type": "Hair Colour",
+         "value": "Ginger"
+      },
+      {
+         "trait_type": "Eye Colour",
+         "value": "Blue"
+      },
+      {
+         "trait_type": "Top Costume",
+         "value": "Jacket"
+      },
+      {
+         "trait_type": "Bottom Costume",
+         "value": "Blue Jeans"
+      },
+      {
+         "trait_type": "Background",
+         "value": "Teal"
+      },
+      {
+         "trait_type": "Ground",
+         "value": "Grass"
+      },
+      {
+         "trait_type": "Emote",
+         "value": "Waving"
+      },
+      {
+         "trait_type": "Outline",
+         "value": "Golden"
+      },
+      {
+         "trait_type": "Effect",
+         "value": "Shiny"
+      },
+      {
+         "trait_type": "Class",
+         "value": "Squire"
+      },
+      {
+         "trait_type": "Strength",
+         "value": 8,
+         "max_value": 10
+      },
+      {
+         "trait_type": "Dexterity",
+         "value": 7,
+         "max_value": 10
+      },
+      {
+         "trait_type": "Intelligence",
+         "value": 7,
+         "max_value": 10
+      },
+      {
+         "trait_type": "Luck",
+         "value": 3,
+         "max_value": 8
+      },
+      {
+         "trait_type": "Armor",
+         "value": 10,
+         "max_value": 16
+      },
+      {
+         "trait_type": "Movement",
+         "value": 4,
+         "max_value": 6
+      }
+   ]
+}
